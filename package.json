@@ -1,0 +1,27 @@
+{
+  "name": "oauth2-proxy",
+  "version": "0.0.0",
+  "description": "Quick and easy oauth2 proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hodavidhara/oauth2-proxy.git"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "proxy",
+    "authentication",
+    "authorization",
+    "server"
+  ],
+  "author": "David Hara <hakuhen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hodavidhara/oauth2-proxy/issues"
+  },
+  "homepage": "https://github.com/hodavidhara/oauth2-proxy#readme"
+}
